@@ -119,6 +119,7 @@ int rgw_read_user_buckets(RGWRados * store,
   string m = marker;
 
   uint64_t total = 0;
+  //adfadsf
 
   if (!max) {
     max = default_amount;
