@@ -120,6 +120,7 @@ int rgw_read_user_buckets(RGWRados * store,
 
   uint64_t total = 0;
   //adfadsf
+  //afda
 
   if (!max) {
     max = default_amount;
